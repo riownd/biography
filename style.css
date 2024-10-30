@@ -12,3 +12,7 @@ body {
   #title-content {
     text-align: center;
   }
+
+  .box {
+    border: 1px;
+  }
